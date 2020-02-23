@@ -1,0 +1,6 @@
+sudo pip3 install pattern
+sudo pip3 install pafy
+sudo pip3 install pygame==2.0.0dev6
+sudo pip3 install youtube_dl
+*** os import listdir *** 
+*** import fnmatch ***
