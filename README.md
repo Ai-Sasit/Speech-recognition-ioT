@@ -5,7 +5,7 @@
   * Use Microphone
   * Use Speaker
   
-## Required module
+## Required modules
   * youtube_dl
   * pygame
   * pafy
