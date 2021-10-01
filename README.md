@@ -1,10 +1,11 @@
 # Speech recognition (ioT)
-
-- Python Project Speech recognition with Dialogflow
+## Project Description
+  * Python Project Speech recognition with Dialogflow
+  * run on Raspberry Pi
   * Use Microphone
   * Use Speaker
   
-- PIP install List
+## Python required module
   * youtube_dl
   * pygame==2.0.0dev6
   * pafy
